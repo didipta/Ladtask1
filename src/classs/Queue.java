@@ -35,7 +35,7 @@ public class Queue<T> {
                 System.out.println("Removed element: "+arr[front-1]);
                 front = 0;
             } else {
-                System.out.println("Removed element: "+arr[front-1]);
+                System.out.println("Removed elements: "+arr[front-1]);
             }
             currentSize--;
         }

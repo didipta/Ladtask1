@@ -18,6 +18,7 @@ public class main {
             {
                 p.pop();
             }
+            for(int i=0;i<5;i++)
             {
                 int a=sc.nextInt();
                 q.enqueue(a);
